@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/home/WeChat",
+    "pages/lianxi04/lianxi04",
+    "pages/lianxi03/lianxi03",
+    "pages/wechat/ex",
+    "pages/index/index",
+    "pages/lianxi01/lianxi01",
+    "pages/lianxi01/lianxi02",
+    "pages/news/news"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#1E1E1E",
+    "navigationBarTitleText": "英雄联盟",
+    "navigationBarTextStyle": "white"
+  }
+}

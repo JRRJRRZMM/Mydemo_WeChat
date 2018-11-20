@@ -1,0 +1,13 @@
+/* pages/news/news.wxss */
+.image1{
+  width: 100%;
+  height: 714rpx;
+}
+.image2{
+  width: 100%;
+  height: 3400rpx;
+}
+.view1{
+  border-bottom: 1px solid gray;
+  margin: 0 10rpx;
+}

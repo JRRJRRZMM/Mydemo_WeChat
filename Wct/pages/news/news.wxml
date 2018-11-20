@@ -1,0 +1,16 @@
+<!--pages/news/news.wxml-->
+<view class="nav-item" wx:for='{{list}}' wx:key='item.ctime'>
+    <image class='image1' src="{{item.img_url}}" mode="aspectFill"      bindtap='getImageList'>
+    </image>
+  <view class='view1'>
+    <text>
+      {{item.title}}
+    </text>
+    <text>
+      {{item.price}}
+    </text>
+  </view>
+</view>
+<view class="nav-item" wx:for='{{list}}' wx:key='item.ctime'>
+<image class='image2' src='{{item.url}}' mode="aspectFill" bindtap='getImageList'></image>
+</view>
